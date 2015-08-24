@@ -1,0 +1,14 @@
+*
+
+!/.gitignore
+
+!/.profile
+
+!/.bash-git-prompt
+!/.git-prompt-colors.sh
+
+!/Library/Application Support/Sublime Text 3/Packages/ColorScheme-Custom
+!/Library/Application Support/Sublime Text 3/Packages/Theme - Soda
+!/Library/Application Support/Sublime Text 3/Packages/User/*.sublime-settings
+!/tools/Spectacle.app
+
